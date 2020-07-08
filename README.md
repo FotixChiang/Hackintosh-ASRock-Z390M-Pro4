@@ -12,7 +12,7 @@
 |Network|BCM94360CD 1750Mbps|
 |Monitor1|宏夏32英寸4K显示器LG NanoIPS面板|
 |Monitor2|惠科 HKC 27英寸 2k显示器（竖置）|
-|Monitor2|惠科 HKC 27英寸 2k显示器（竖置）|
+|Monitor3|惠科 HKC 27英寸 2k显示器（竖置）|
 
 ### 设置情况说明
 1. 三屏显示器 4K✖️1+ 2k✖️2，全部通过DP接口连接至独显
