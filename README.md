@@ -1,4 +1,5 @@
 # Hackintosh-ASRock-Z390M-Pro4
+# Torn down
 ###  设备配置
 |部件|型号|
 |---|---|
